@@ -1,0 +1,17 @@
+# Python byte code
+*.pyc
+*.pyo
+
+# Compiled JSON
+*.json
+!*p4app.json
+!topology.json
+!*-runtime.json
+
+*.pcap
+
+# Build folders
+build*/
+
+# Logs folders
+logs/
